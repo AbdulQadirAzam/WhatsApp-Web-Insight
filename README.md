@@ -8,7 +8,7 @@
 
 💬 Real-time Messaging 📸 Media Sharing Support 🖥️ Responsive Design for Desktop 📱 Synchronized with Mobile App
 
-**How to Use**: Clone the repository and follow the setup instructions at https://whatsappwebconnect.com/
+**How to Use**: Clone the repository and follow the setup instructions at https://whatsappwebinsight.netlify.app
 
 Feel free to contribute, report issues, or suggest new features to enhance the WhatsApp Web experience. Let's make staying connected a seamless and enjoyable process for everyone! 🌐💙
 
